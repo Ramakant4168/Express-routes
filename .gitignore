@@ -1,0 +1,4 @@
+#ignore nodeModule
+node_modules/
+#ignore mac files
+.DS_Store
